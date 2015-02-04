@@ -2,4 +2,7 @@ name: React-Argon Sample App.
 description: A demo of react-argon based app.
 authors:
   - Sanjay Chouksey
+resources:
+  - http://fb.me/JSXTransformer-0.12.1.js
+  - http://fb.me/react-with-addons-0.12.1.js
 ...
