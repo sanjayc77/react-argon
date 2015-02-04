@@ -5,4 +5,5 @@ authors:
 resources:
   - http://fb.me/JSXTransformer-0.12.1.js
   - http://fb.me/react-with-addons-0.12.1.js
+lang_js: JavaScript 1.7
 ...
